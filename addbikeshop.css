@@ -1,0 +1,14 @@
+.form-outline {
+    position: aboslute;
+    right: 100%;
+    width: 50%;
+    font-size: 1px;
+}
+
+body{
+    
+}
+
+button [type=submit]{
+    color: coral;
+}

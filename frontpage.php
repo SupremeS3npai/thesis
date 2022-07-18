@@ -33,7 +33,7 @@
 	
 	<nav  class="navbar navbar-expand-lg navbar-light bg-light py-3" id="navigation">
   <div class="container">
-<p><b><h5 style="border: solid black; padding: 5px; border-radius: 5px ;"><span style="color: coral;">Bikers</span> portal</h5></b></p>
+<p><b><h5 style="border: solid black; padding: 5px; border-radius: 5px ;"><span style="color: #54626f">Bikers</span> portal</h5></b></p>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -46,7 +46,7 @@
 	</ul>
         
 	<input type=button onClick="parent.location='customerlogin.php'"value='login'>
-	<input type=button onClick="parent.location='signup.php'"value='signup'>
+	<input type=button onClick="parent.location='singup.php'"value='signup'>
 	<a href="profile.php">
 	<i class="fa fa-user" aria-hidden="true"></i>
 </a>
